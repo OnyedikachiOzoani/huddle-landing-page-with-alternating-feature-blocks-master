@@ -67,6 +67,7 @@ img {
 .top-section a {
 	display: inline-flex;
 	align-items: center;
+	color: var(--Very-Dark-Cyan);
 	background-color: white;
 	text-decoration: none;
 	font-weight: bold;
